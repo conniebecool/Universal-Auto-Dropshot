@@ -2,7 +2,7 @@
 
 # Universal Auto Dropshot
 
-This Python program allows you to automate a dropshot action when left-clicking, with customizable key bindings and toggle functionality.
+A program that automates the action of a dropshot in most FPS games.
 
 ## Getting Started
 
