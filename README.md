@@ -1,5 +1,5 @@
 
-```markdown
+
 # Universal Auto Dropshot
 
 This Python program allows you to automate a dropshot action when left-clicking, with customizable key bindings and toggle functionality.
@@ -14,8 +14,8 @@ This Python program allows you to automate a dropshot action when left-clicking,
 
 1. Clone or download this repository to your local machine.
 
-
-git clone https://github.com/your-username/universal-auto-dropshot.git
+```
+git clone https://github.com/conniebecool/universal-auto-dropshot.git
 
 ```
 
@@ -56,4 +56,3 @@ python dropshot.py
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
